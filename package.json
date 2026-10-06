@@ -1,0 +1,26 @@
+{
+  "name": "ow-devolop-infra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swagboy2208/ow-devolop-infra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/swagboy2208/ow-devolop-infra/issues"
+  },
+  "homepage": "https://github.com/swagboy2208/ow-devolop-infra#readme",
+  "devDependencies": {
+    "wrangler": "^4.147.0"
+  }
+}
